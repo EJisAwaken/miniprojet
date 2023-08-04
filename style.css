@@ -1,0 +1,20 @@
+#container{
+    text-align: center;
+    font-size: 40px;
+    margin: 300px 20% ;
+}
+
+#para{
+    background: black;
+    color: white;
+    padding: 2% 0;
+    border-radius: 15px;
+    width: 100%;
+}
+
+#btn{
+    padding: 2%;
+    font-size: 30px;
+    border-radius: 30px;
+    background: rgba(0,0,0,0);
+}

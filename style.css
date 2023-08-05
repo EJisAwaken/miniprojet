@@ -3,10 +3,12 @@
     padding: 0;
 }
 
+                    /*Css du Simple*/
+
 #container{
     text-align: center;
     font-size: 300%;
-    margin: 300px 10% ;
+    margin: 40vh 10vw;
 }
 
 #para{
@@ -24,3 +26,5 @@
     background: rgba(0,0,0,0);
     margin-top: 20px;
 }
+
+                        /*css de Hex*/

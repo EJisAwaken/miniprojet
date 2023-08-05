@@ -27,4 +27,20 @@
     margin-top: 20px;
 }
 
+
+@media screen and (max-width: 800px){
+    #container{
+        margin: 40vh 3vw;
+    }
+}
+
+@media screen and (max-width: 450px){
+
+    #container{
+        margin: 40vh -1vw;
+    }
+
+}
+
+
                         /*css de Hex*/

@@ -1,8 +1,7 @@
 let body = document.querySelector("body");
 let btn = document.querySelector("#btn");
-let container = document.querySelector("#container");
 let color = document.querySelector("#color");
-let colors = ["red", "white", "green", "purple", "blue"];
+let colors = ["red", "#F1f5f8", "green", "Rgba(133,122,200)", "#F15025"];
 
 btn.addEventListener("click", () =>{
     let random = Math.floor(Math.random()*colors.length);
